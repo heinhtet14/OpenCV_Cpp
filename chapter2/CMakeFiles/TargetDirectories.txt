@@ -1,0 +1,3 @@
+/home/hein/opencv_projects/chapter2/CMakeFiles/rebuild_cache.dir
+/home/hein/opencv_projects/chapter2/CMakeFiles/edit_cache.dir
+/home/hein/opencv_projects/chapter2/CMakeFiles/helloworld.dir
