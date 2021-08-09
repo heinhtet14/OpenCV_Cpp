@@ -1,0 +1,5 @@
+cmake_minimum_required(VERSION 2.8)
+project(display_vid)
+find_package(OpenCV REQUIRED)
+add_executable(display_vid display_vid.cpp)
+target_link_libraries(display_vid ${OpenCV_LIBS})
