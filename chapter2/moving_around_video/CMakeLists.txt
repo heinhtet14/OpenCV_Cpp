@@ -1,0 +1,5 @@
+cmake_minimum_required(VERSION 2.8)
+project(move_around)
+find_package(OpenCV REQUIRED)
+add_executable(move_around move_around.cpp)
+target_link_libraries(move_around ${OpenCV_LIBS})
